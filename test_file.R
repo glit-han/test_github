@@ -6,5 +6,6 @@ data <- data.frame(
 
 data2 <- data %>%
   mutate(
-    c = 5
+    cccc = 5
   )
+
